@@ -64,4 +64,3 @@ Labs are run in an isolated 3-VM VMware setup on a host-only network:
 - [Verascript](https://ai-text-detector-sigma.vercel.app) — AI text detection & humanisation tool built on the Claude API ([repo](https://github.com/indestructiblebatman/ai-text-detector))
 - Writing on security, career pivots, and cricket analytics: [Substack](https://pravinsuryatale.substack.com)
 
-#
