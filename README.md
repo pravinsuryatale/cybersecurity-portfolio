@@ -36,9 +36,6 @@ This repo documents that pivot. Every folder below is a self-contained lab write
    Focus: Linux fundamentals & CTF;
    Key techniques: Levels 1–26+, privilege escalation chains
 
-7. CVE Write-ups;
-   Focus: Vulnerability research;
-   Key techniques: Ghostcat, Badlock, CVE-2008-0166, Bind Shell Backdoor, VNC default credentials, NFS misconfiguration
 
 ## Lab Environment
 
